@@ -73,11 +73,12 @@ O smart contract implementa padrões comuns de blockchain como:
 Este projeto utiliza ferramentas modernas de desenvolvimento Web3:
 
 - **[Solidity](https://soliditylang.org/)** `^0.8.17` - Linguagem de programação de smart contracts
-- **[Hardhat](https://hardhat.org/)** `^2.14.1` - Ambiente de desenvolvimento Ethereum
-- **[Ethers.js](https://docs.ethers.org/)** - Biblioteca Ethereum para deploy e testes
+- **[Hardhat](https://hardhat.org/)** `^2.28.0` - Ambiente de desenvolvimento Ethereum
+- **[Hardhat Toolbox](https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-toolbox)** `^6.1.0` - Bundle completo de plugins
+- **[Ethers.js](https://docs.ethers.org/)** `v6` - Biblioteca Ethereum para deploy e testes
 - **[TypeScript](https://www.typescriptlang.org/)** - Desenvolvimento com tipagem segura
 - **[Chai](https://www.chaijs.com/)** - Asserções para testes
-- **[dotenv](https://www.npmjs.com/package/dotenv)** - Gerenciamento de variáveis de ambiente
+- **[dotenv](https://www.npmjs.com/package/dotenv)** `^17.2.3` - Gerenciamento de variáveis de ambiente
 
 ---
 
