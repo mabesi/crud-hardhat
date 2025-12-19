@@ -4,8 +4,6 @@ import "@nomicfoundation/hardhat-toolbox";
 import dotenv from 'dotenv';
 dotenv.config();
 
-import "@nomiclabs/hardhat-etherscan";
-
 const config: HardhatUserConfig = {
   solidity: "0.8.17",
   networks: {

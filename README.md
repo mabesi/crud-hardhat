@@ -1,7 +1,7 @@
 # Condominium Voting System - Hardhat Smart Contract
 
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.17-blue)](https://soliditylang.org/)
-[![Hardhat](https://img.shields.io/badge/Hardhat-2.14.1-yellow)](https://hardhat.org/)
+[![Hardhat](https://img.shields.io/badge/Hardhat-2.28.0-yellow)](https://hardhat.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 > 🇧🇷 [Versão em Português](./README-PT.md)
